@@ -17,3 +17,5 @@ A minimalistic search engine that provides both text-based and vector-based sear
 - Support for incremental document addition (AppendableIndex)
 - Customizable tokenizer patterns and stop words
 - Efficient search with filtering and boosting
+
+__Note:__ this is a toy example for illustrating how relevance search works. It's not meant to be used in production.
